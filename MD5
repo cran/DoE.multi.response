@@ -1,0 +1,16 @@
+3ef8f6ea2910cdd7a9405e6a9e628e9a *DESCRIPTION
+c5ae03fe097d62b99fe3825172021e79 *LICENSE
+ace99a28f2d1552f9e1d5f605998c639 *NAMESPACE
+5ac4cd27f744bf9c4c59a44430952cb2 *R/ufactors_function.R
+4e04e52fd70b471d36fb6655b813813e *R/ufccd_function.R
+1bc72136c4df462ddab8aff71fad935d *README.md
+5fb3d5149b9fcdd8f48039bf52453e98 *inst/CITATION
+2917f65daf8368dca42fbdf7670f340e *inst/desktop.ini
+a61902279b1b1123414255cd613e9d42 *man/ufactors.Rd
+6ddce7b07e3f942ffee3a0b2d02c8d33 *man/ufccd.Rd
+2917f65daf8368dca42fbdf7670f340e *tests/desktop.ini
+4a9defe2fcf5ff43506fc2ac38c64d15 *tests/testthat.R
+2917f65daf8368dca42fbdf7670f340e *tests/testthat/desktop.ini
+80510798fe8e863867fd1cb728b1fb8a *tests/testthat/testhelpers.R
+46fd7b6d58ee7c9529093351e089a808 *tests/testthat/testufccd.R
+80935d3af8b8b7832cae39741bdbca8f *tests/testthat/testuniquefactors.R
